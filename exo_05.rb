@@ -30,7 +30,7 @@ puts "Ça fait combien 5 - 7 ? #{5 - 7}" # Ça fait combien 5 - 7 ? -2
 # Renvoi une chaîne de caractère avec une dedans du texte
 puts "Ok, c'est faux alors !"
 
-# Renvoi une chaîne de caractère avec une dedans du texte
+# Renvoi une chaîne de caractère avec une dedans du texte00
 puts "C'est drôle ça, faisons-en plus :"
 
 # renvoi des chaîne caractère avec des interpolation qui contiennent des boolean 
